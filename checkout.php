@@ -40,7 +40,7 @@ if (isset($_POST['checkout'])) {
     $_SESSION['cart'] = array();
 
     // Redirect ke halaman utama dengan parameter success
-    header("Location: index.php?success=1");
+    header("Location: index.php");
     exit();
 }
 ?>
