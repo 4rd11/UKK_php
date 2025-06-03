@@ -94,7 +94,7 @@ $result_kantin = mysqli_query($conn, $query_kantin);
             <h2 class="text-center mb-4">About Kantin</h2>
             <div class="row align-items-center">
                 <div class="container d-flex justify-content-center"alt="Kantin">
-                    <img src="JIRO.jpg" >   
+                    <img src="JIRO.jpg"style="width: 100px; height:auto; >   
                 </div>
                 <p>
                 <div class="container d-flex justify-content-center"alt="Kantin">
